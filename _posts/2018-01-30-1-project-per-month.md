@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "1-project-per-month challenge"
-# date:   2018-01-29 20:23:44 +0100
+date:   2018-01-30 20:30:00 +0100
 categories: 1ppm
 ---
 
