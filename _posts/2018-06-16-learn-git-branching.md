@@ -87,4 +87,4 @@ pick a5f4a0d added cat-file
 # Note that empty commits are commented out
 ```
 
-You can simply edit accordingly and clean up your branch. Of course you need to be careful - be sure that no one else is working on this branch anymore, since if you delete some commits you get the same effect as discussed within `git reset` section above. Don't be supprised that you need to push with `-force` flag again :)
+You can simply edit accordingly and clean up your branch. Of course you need to be careful - be sure that no one else is working on this branch anymore, since if you delete some commits you get the same effect as discussed within `git reset` section above. Don't be supprised that you need to push with `--force` flag again :)
