@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "1ppm#1 My first React App"
+title:  "1ppm#1 my first React App"
 date:   2018-01-31 20:59:59 +0100
 categories: 1ppm
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "1ppm#2 Simple battleship game in MVC model"
+title:  "1ppm#2 simple battleship game in MVC model"
 date:   2018-03-03 13:00:00 +0100
 categories: 1ppm
 comments: true
