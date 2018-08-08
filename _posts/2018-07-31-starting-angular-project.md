@@ -48,7 +48,19 @@ To run `.ts` deploy script from node you need to install `ts-node` package from 
 
 Here you can have a look on the script in my project: [scripts/deploy.ts](https://github.com/archiewald/angular-s3/blob/master/scripts/deploy.ts)
 
-I am aware that it can be few lines written as a bash script with usage of`aws-cli`. You might takie it into consideration and decide by yourself ;)
+I am aware that it can be few lines written as a bash script with usage of `aws-cli`. You might takie it into consideration and decide by yourself ;)
 
-## Set up Prettier
+## Set up Editor Config and Prettier
 
+To get the best developer experience I like to configure [Prettier](https://prettier.io/) in my project. It is an opinionated code formatter - meaning you cannot configure everything, though there are some options available. Prettier will make sure all the code in the project is formatted in consistent way. Thanks to available plugins you can tell your IDE to format your code each time it is saved. I love it since it automates my work and let me focus on programming itself.
+
+It works well together with [Editor Config](https://editorconfig.org/), which tells the editor what are the intendation rules so they are set it the moment the file is created.
+
+## Set up tslint
+
+[tslint](https://palantir.github.io/tslint/) is another great tool to improve your TypeScript code quality. It is much more than just code formatting - it can check if your code fits some best practices set up in config file. As said, I prefer Prettier to deal with formatting, meaning this part of tslint I would rather switch off.
+
+Rather than switching off manually formatting rules, I recommend to install [tslint-config-prettier](https://www.npmjs.com/package/tslint-config-prettier) which will do the job for you.
+
+
+To make sure your code will stay consistent when comitted to your repository it is recommended to set 'pre-commit hooks'. [Husky](https://github.com/typicode/husky) is an easy-to-use tool for this purpose.
