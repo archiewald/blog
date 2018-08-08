@@ -6,9 +6,9 @@ categories: 1ppm
 comments: true
 ---
 
-Good day!
+# [github repo](https://github.com/archiewald/angular-s3)
 
-In the below post I will sum up few ideas you can use to make a process of developing and deploying Angular app smooth. They should be applicable to any other frontend project as well e.g. React or Vue one.
+Good day! In this post I will sum up few ideas you can use to make a process of developing and deploying Angular app smooth. They should be applicable to any other frontend project as well e.g. React or Vue one.
 
 ## Deploy on AWS
 

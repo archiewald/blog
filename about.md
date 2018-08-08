@@ -4,6 +4,10 @@ title: About
 permalink: /about/
 ---
 
+<div class="img-block">
+    <img src="{{ "/assets/archie.jpg" | absolute_url }}" alt="archie">  
+</div>
+
 My name is Artur and I recently decided to become a frontend developer.
 
 Here on my blog you can see some output of my struggles to be a better and better one. 
