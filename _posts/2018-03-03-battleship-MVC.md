@@ -16,7 +16,7 @@ WarsawJS is a group of geeks doing meetups mainly (not only) in Warsaw. You can 
 
 A great thing is they also do workshops! It is a great opportunity for newbie developers to learn from JS passionates. So I attended one, [WarsawsJS Workshop #16](https://www.meetup.com/pl-PL/WarsawJS/events/246649523/) on 21th of January.
 
-We were devided in 3 groups depending on our programming experience and started to code with some help of the tutors.
+We were divided in 3 groups depending on our programming experience and started to code with some help of the tutors.
 
 ![Warsaw js shot]({{ "/assets/2018-03-03/1.jpg" | absolute_url }}) _Me getting some attention from workshops tutors_ :)
 
@@ -28,13 +28,13 @@ The goal was to make a simple battleship game in pure javascript using Model Vie
 
 * __Model__ here we include application logic, we define our data and how certain events affects it.
 
-* __View__ it defines user interface. We can initialise it here and describe necessery methods to it can change.
+* __View__ it defines user interface. We can initialize it here and describe necessary methods to it can change.
 
 * __Controller__ here we define how our model will be affected by input from user.
 
 * __Observer__ you can call it an extra 4th component in this pattern. Here we define how events taking place in model will affect our view.
 
-You can cartainly find some broader and more detailed definition in the web :). See below implementation of this pattern in the code of battleship game and the game itself :)
+You can certainly find some broader and more detailed definition in the web :). See below implementation of this pattern in the code of battleship game and the game itself :)
 
 <iframe src="https://archiewald.github.io/warsawjs-16/" height='550px' width='480px'></iframe>
 
@@ -62,7 +62,7 @@ In `GameCell` and `GameBoard` we use constructors to draw board in initial state
 class GameCell extends ViewComponent {
     constructor(handleCellClick, row, column) {
         // constructor code runs on the creation of object
-        super(); // run cunstructor of parent class
+        super(); // run constructor of parent class
         this._state = 'unknown'; // underscore means 'private', not accessible outside of class
         this._element = document.createElement('td');
         const self = this;
@@ -133,7 +133,7 @@ class GameController {
 
 # Model
 
-And here we go to the `GameModel` class where the game logic is implemented. As you can see for each action such as `fireAt()`, besides updating the model, we register an observer or more so then whatever occured in the model can be rendered in the view.
+And here we go to the `GameModel` class where the game logic is implemented. As you can see for each action such as `fireAt()`, besides updating the model, we register an observer or more so then whatever occurred in the model can be rendered in the view.
 
 {%  highlight js %}
 class GameModel {
@@ -221,7 +221,7 @@ class GameModel {
 
 # App initialization
 
-Here you can see how components aboved are used to create a game and what are the relations between them. Important part is to add observers to the model - here in the `switch` instruction you can how the view gets updated by events happened in the model.
+Here you can see how components above are used to create a game and what are the relations between them. Important part is to add observers to the model - here in the `switch` instruction you can how the view gets updated by events happened in the model.
 
 {%  highlight js %}
 

@@ -24,7 +24,7 @@ It is a simple app made with React.js framework which basically helps to write s
 
 # What I learned?
 
-* __How data flows between React components.__ Franly saying, even for such a simple app I find props based data flow not intuitive... [This article](https://medium.com/dailyjs/when-do-i-know-im-ready-for-redux-f34da253c85f) shows perfectly my struggles. This is why I decided to learn Redux right away!
+* __How data flows between React components.__ Frankly saying, even for such a simple app I find props based data flow not intuitive... [This article](https://medium.com/dailyjs/when-do-i-know-im-ready-for-redux-f34da253c85f) shows perfectly my struggles. This is why I decided to learn Redux right away!
 
 * __How to deploy React app on github pages.__ Following [this tutorial](https://github.com/gitname/react-gh-pages) it was super easy!
 

@@ -151,7 +151,7 @@ Some libraries I used for this project:
 * [react-helmet](https://github.com/nfl/react-helmet) helped me to render page title each second without much pain,
 * [react-sound](https://github.com/leoasis/react-sound) provided me nice Sound component to play when timer ends.
 
-PS. Honestly - I would say this project is not a best example to introduce Redux, with this very simple UI I would definetely be comfortable without it. Anyway, everyone need to start somewhere and non-profit learning projects tend to be simple :) I am glad that I made it this way but keep in mind this app might be done lot easier way.
+PS. Honestly - I would say this project is not a best example to introduce Redux, with this very simple UI I would definitely be comfortable without it. Anyway, everyone need to start somewhere and non-profit learning projects tend to be simple :) I am glad that I made it this way but keep in mind this app might be done lot easier way.
 
 
 
