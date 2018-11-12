@@ -20,9 +20,9 @@ I want to share with you my thoughts after joining hackathon for the first time.
 
 Starting from the left:
 
-- Kasia, UX Developer & Designer,
-- Ewa, Project Lead,
-- Przemek, JavaScript Developer,
+- Kasia - UX Developer & Designer,
+- Ewa - Project Lead,
+- Przemek - JavaScript Developer,
 - myself
 
 <div class="img-block">
@@ -34,15 +34,15 @@ Thank you guys for the time we shared there. I really like brainstorming with yo
 
 ## The Project 💡
 
-After going through all the data already uploaded on the portal we decided the main problem is the quality of the data there. There are multiple data formats, mostly excel files, and these are variously formatted as well.
+After going through all the resources already uploaded on the portal, we decided the main problem is the quality of the data there. There are multiple formats, mostly excel files, and the particular sheets are variously formatted as well.
 
-We decided to create a tool which helps providers to upload data which then is convertible to more machine-friendly formats like CSV or JSON. Shortly, the process goes as below:
+We decided to create a tool which helps providers to upload data, which then is converted to more machine-friendly formats like CSV or JSON. Shortly, the process goes as below:
 
 1. Choose the type of data you want to upload. Categories, value types, is it a time domain dat etc.
 1. The app creates excel template available to download.
 1. Fill the template with data, upload.
 1. The app validates provided data.
-1. If ok, JSON and csv is generated from data, available to be downloaded and easy to read by machine.
+1. If ok, JSON and CSV are generated from data, available to be downloaded and easy to read by machine.
 
 Lot of stuff going on... But we managed to provide a beautiful [interactive mocks](https://xd.adobe.com/view/c37a07e8-b84a-4309-5964-fc9753b30264-b54b/?fullscreen) (big kudos for Kasia ️❤️) and create a simple demo app which processed exemplary data set. Nice job! (You can access mocks providing password: `Monster1` )
 
