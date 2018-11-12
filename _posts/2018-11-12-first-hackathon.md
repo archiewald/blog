@@ -59,7 +59,7 @@ Lot of stuff going on... But we managed to provide a beautiful [interactive mock
 
 - Use tools you are comfortable with. Learning a new library on fly on 24h hackathon didn't work for me. If you want to deliver a working demo in such short period of time, your flow must be undisturbed. Easier said then done, for example I wanted to use [material-ui](https://material-ui.com/) really bad, even though I wasn't really fluent with this library. I know bootstrap quite well on the other hand, so I should made it my first choice.
 
-- You have a great tools to build interactive mocks like Adobe XD, Balsamic, Zepplin etc. You can use it to present a user interface of your app and then do a rough demo to prove you are capable to do it. It's ok, most teams on the hackathon presented more/less this way.
+- There are some great tools to build interactive mocks like Adobe XD, Balsamic, Zepplin etc. You can use it to present a user interface of your app and then do a rough demo to prove you are capable to do it. It's ok, most teams on the hackathon presented more/less this way.
 
 <div class="img-block">
     <img src="{{ "/assets/2018-11-12/archie.jpg" | absolute_url }}" alt="team">
