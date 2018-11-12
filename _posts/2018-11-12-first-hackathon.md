@@ -8,7 +8,7 @@ comments: true
 image: /assets/2018-11-12/team2.jpg
 ---
 
-### [github repo](https://github.com/pingwing/DaneDaneDane)
+### [github repo](https://github.com/pingwing/DaneDaneDane), [project mocks](https://xd.adobe.com/view/c37a07e8-b84a-4309-5964-fc9753b30264-b54b/?fullscreen) `password: Monster1`
 
 I want to share with you my thoughts after joining hackathon for the first time. It was a super rich experience I think every developer should try.
 
@@ -44,7 +44,7 @@ We decided to create a tool which helps providers to upload data which then is c
 1. The app validates provided data.
 1. If ok, JSON and csv is generated from data, available to be downloaded and easy to read by machine.
 
-Lot of stuff going on... But we managed to provide a beautiful interactive mocks (big kudos for Kasia ️❤️) and create a simple demo app which processed exemplary data set. Nice job!
+Lot of stuff going on... But we managed to provide a beautiful [interactive mocks](https://xd.adobe.com/view/c37a07e8-b84a-4309-5964-fc9753b30264-b54b/?fullscreen) (big kudos for Kasia ️❤️) and create a simple demo app which processed exemplary data set. Nice job! (You can access mocks providing password: `Monster1` )
 
 <div class="img-block">
     <img src="{{ "/assets/2018-11-12/team2.jpg" | absolute_url }}" alt="team 2">
