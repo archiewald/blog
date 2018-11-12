@@ -19,7 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Frontend and smarthome stuff. Enjoy :3
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://archiewald.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  archiewald
+github_username: archiewald
+image: /assets/2018-11-12/archie.jpg
 
 # Build settings
 markdown: kramdown
@@ -27,7 +28,6 @@ theme: minima
 plugins:
   - jekyll-feed
 future: true
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
