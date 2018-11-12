@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "1ppm#9 my first hackathon!"
+title: "1ppm#9 my first hackathon! check it"
+description: "I want to share with you my thoughts after joining hackathon for the first time. It was a super rich experience I think every developer should try."
 date: 2018-11-12 18:00:00 +0100
 categories: 1ppm
 comments: true
+image: /assets/2018-11-12/team2.jpg
 ---
 
 ### [github repo](https://github.com/pingwing/DaneDaneDane)
