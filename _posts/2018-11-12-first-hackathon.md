@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "1ppm#9 my first hackathon! check it"
-description: "I want to share with you my thoughts after joining hackathon for the first time. It was a super rich experience I think every developer should try."
+title: "1ppm#9 my first hackathon!"
+description: "Thoughts after joining hackathon for the first time"
 date: 2018-11-12 18:00:00 +0100
 categories: 1ppm
 comments: true
