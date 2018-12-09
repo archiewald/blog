@@ -23,7 +23,7 @@ I will assume you already have a Jenkins working instance and you did set it up 
 
 <div class="img-block">
     <img src="{{ "/assets/2018-12-10/blueocean.png" | absolute_url }}" alt="blue_ocean">
-    <p class="caption">A visual representation of the Pipeline in Jenkins Blue Ocean</p>
+    <p class="caption">A visual representation of a Pipeline in Jenkins Blue Ocean</p>
 </div>
 
 ## create angular starter app 🚀
