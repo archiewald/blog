@@ -16,7 +16,7 @@ Last months I spent some time learning Angular framework. I like React and I pre
 
 Apart from learning Angular itself I wanted to dive more into writing tests and what one could name "frontend devops". The goal was to automatize stuff like linting, running tests, deploying. I realized that it is preferable to move such tasks into continuous integration environment.
 
-Thanks to that we can make our developer experience better - we don't need to run these possibly heavy and long processes on local machines. They are more predictable since we run it each time on an environment of our choice (meaning OS, computing resources etc). As a CI environment I chose Jenkins for my experiments since this is the tool we use in codequest. Part of it I want to describe in below simple tutorial.
+Thanks to that we can make our developer experience better - we don't need to run these possibly heavy and long processes on local machines. They are more predictable since we run it each time on an environment of our choice (meaning OS, computing resources etc). As a CI environment I chose Jenkins for my experiments since this is the tool we use in codequest. I want to describe part of it in below simple tutorial.
 
 How to create Angular starter app and configure it so we can run tests on Jenkins? Let's learn!
 I will assume you already have a Jenkins working instance and you did set it up to be triggered from your version control service. This article covers the part of configuring Angular and declaring a Pipeline.
