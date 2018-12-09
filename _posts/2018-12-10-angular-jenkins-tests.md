@@ -16,7 +16,7 @@ Last months I spent some time learning Angular framework. I like React and I pre
 
 Apart from learning Angular itself I wanted to dive more into writing tests and what one could name "frontend devops". The goal was to automatize stuff like linting, running tests, deploying. I realized that it is preferable to move such tasks into continuous integration environment.
 
-Thanks to that we can make our developer experience better - we don't need to run these possibly heavy and long processes on local machines. They are more predictable since we run it each time on an environment of our choice (meaning OS, computing resources etc). As a CI environment I chose Jenkins for my experiments since this is the tool we use in codequest. I want to describe part of it in below simple tutorial.
+Thanks to that we can make our developer experience better - we don't need to run these possibly heavy and long processes on local machines. They are more predictable since we run it each time on an environment of our choice (meaning OS, computing resources etc). As a CI environment I chose Jenkins for my experiments since this is the tool we use in codequest. I want to describe part of it in a simple tutorial below.
 
 How to create Angular starter app and configure it so we can run tests on Jenkins? Let's learn!
 I will assume you already have a Jenkins working instance and you did set it up to be triggered from your version control service. This article covers the part of configuring Angular and declaring a Pipeline.
@@ -92,20 +92,20 @@ capabilities: {
 },
 ```
 
-Then I can set a new configuration file in a script in `package.json` for `e2e:ci`:
+Then we can set a new configuration file in a script in `package.json` for `e2e:ci`:
 
 ```
 "e2e": "ng e2e",
 "e2e:ci": "ng e2e --protractorConfig=e2e/protractor.ci.conf.js"
 ```
 
-You can test if these CI variant scripts work in your local environment, they did on my macOS 🙂
+Test if these CI variant scripts work in your local environment, they did on my macOS 🙂
 
 ## create a JenkinsFile ♻️
 
 Let's create a very basic JenkinsFile with a Pipeline responsible for running `npm install` and our special CI test scripts variants.
 
-For an image I use [angular-chrome-headless](https://github.com/avatsaev/anguar-chrome-headless-docker) with Chrome Headless installed and pre-configured to work with Angular unit/e2e tests.
+For an image I use an [angular-chrome-headless](https://github.com/avatsaev/anguar-chrome-headless-docker) with Chrome Headless installed and pre-configured to work with Angular unit/e2e tests.
 
 Create a file named `JenkinsFile` with pipeline as below:
 
