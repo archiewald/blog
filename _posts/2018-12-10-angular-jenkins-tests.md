@@ -105,7 +105,7 @@ You can test if these CI variant scripts work in your local environment, they di
 
 Let's create a very basic JenkinsFile with a Pipeline responsible for running `npm install` and our special CI test scripts variants.
 
-For an image I use an [angular-chrome-headless](https://github.com/avatsaev/anguar-chrome-headless-docker) with Chrome Headless installed and pre-configured to work with Angular unit/e2e tests.
+For an image I use an [angular-chrome-headless](https://github.com/avatsaev/angular-chrome-headless-docker) with Chrome Headless installed and pre-configured to work with Angular unit/e2e tests.
 
 Create a file named `JenkinsFile` with pipeline as below:
 
