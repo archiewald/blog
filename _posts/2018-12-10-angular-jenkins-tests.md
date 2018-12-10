@@ -67,7 +67,7 @@ customLaunchers: {
 },
 ```
 
-Now we can decide if we want to run unit tests by adding a flag in a script in `package.json`. We make sure to not run a CI version in watch mode by adding a proper flag.
+Now we can decide what browser to use by adding a flag in a script in `package.json`. We make sure to not run a CI version in watch mode by adding `--watch=false`
 
 ```
 "test": "ng test --browsers=Chrome ",
@@ -99,7 +99,7 @@ Then we can set a new configuration file in a script in `package.json` for `e2e:
 "e2e:ci": "ng e2e --protractorConfig=e2e/protractor.ci.conf.js"
 ```
 
-Test if these CI variant scripts work in your local environment, they did on my macOS 🙂
+You can test if these CI variant scripts work in your local environment, they did on my macOS 🙂
 
 ## create a JenkinsFile ♻️
 
