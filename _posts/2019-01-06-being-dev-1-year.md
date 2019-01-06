@@ -4,7 +4,7 @@ title: "Being a fronted developer for 1 year"
 description: "Summing up how it feels after 1 year of working as a frontend developer"
 date: 2019-01-06 18:00:00 +0100
 comments: true
-image: /assets/2019-01-06/new-year.jpg
+image: /assets/2019-01-06/newyear.jpg
 ---
 
 So here it is, another article summarizing how the 2018 was :) For me it was a very special time, since exactly on December 2017 I started my first job as a frontend developer. It was an intense year but I am happy to say that I learned a lot, feel bit more confident about my programming skills and look forward to learn new.
@@ -56,7 +56,7 @@ It is a good moment do send kudos to people who helped me in the last year:
 - lighting talks each week,
 - atmosphere of friendship and helping each other.
 
-[WarsawJS](https://warsawjs.com/) - local community giving **so much** to developers in Warsaw (not only). Extremely positive organisers make every event a pleasure to attend. Personally I participated in:
+[WarsawJS](https://warsawjs.com/) - local community giving **so much** to developers in Warsaw (not only). Extremely positive organizers make every event a pleasure to attend. Personally I participated in:
 
 - monthly meetups,
 - workshops - really cool events where you get a pro training in some frontend related topic for a fraction of usual costs. You can find what we did on each on my [github](https://github.com/archiewald?utf8=%E2%9C%93&tab=repositories&q=warsawjs&type=&language=). There is a post I wrote about one [here]({{ "/1ppm/2018/03/03/battleship-MVC" | absolute_url }})
