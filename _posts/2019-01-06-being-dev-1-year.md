@@ -7,7 +7,7 @@ comments: true
 image: /assets/2019-01-06/newyear.jpg
 ---
 
-So here it is, another article summarizing how the 2018 was :) For me it was a very special time, since exactly on December 2017 I started my first job as a frontend developer. It was an intense year but I am happy to say that I learned a lot, feel bit more confident about my programming skills and look forward to learn new.
+So here it is, another article summarizing how the 2018 was :) For me it was a very special time, since exactly on December 2017 I started my first job as a frontend developer. It was an intense year but I am happy to say that I've learned a lot, I feel bit more confident about my programming skills and look forward to learn new.
 
 <div class="img-block">
     <img src="{{ "/assets/2019-01-06/newyear.jpg" | absolute_url }}" alt="new year">
@@ -17,19 +17,19 @@ So here it is, another article summarizing how the 2018 was :) For me it was a v
     </p>
 </div>
 
-**Software developer is a very demanding job.** I worked before as a so-called Sales Engineer and as a Technical Support Engineer, each for around 1 year long. And I can say with no doubt that as a frontend developer I worked hardest, had to learn most and it was the most stressful time in my short professional career. But this is what I wanted, to have a challenging surrounding I can grow and eventually get well rewarded for my work.
+**Software developer is a very demanding job.** I worked before as a so-called Sales Engineer and as a Technical Support Engineer, each for around 1 year long. And I can say with no doubt that as a frontend developer I worked hardest, had to learn most and it was the most stressful time in my short professional career. But this is what I wanted - to have a challenging surrounding I can grow and eventually get well rewarded for my work.
 
 ### What I like? 😍
 
 - **I feel I work as a real engineer.** I get specifications and transform it into solutions with my skills. Coding is my craft which I can polish every day, no one can take it from me - this gives me a great feeling of freedom.
 - Learning in IT feels much easier then in other businesses I worked. Literally, **every person I met was eager to share his knowledge with me**. Obviously there is a ton of materials in the net you can learn from. If you are lucky as I am, you will find a company which cares for a great growth environment as [codequest](https://codequest.com/) does 🎉.
-- I am amazed by the **power of open source**, how much tools we get for our every-day work for free. It is really different from a Factory Automation business for example. There are [PLC](https://en.wikipedia.org/wiki/Programmable_logic_controller) programmers who don't have such easy ways to share their code with git, don't have libraries for every problem they face, so many tools for project management etc. BTW I think this is a great niche for startups 🚀.
-- **Javascript community in Warsaw is awesome**. You can attend some meetup almost every week I think. Most of the time you will find well prepared speakers with ton of knowledge to share and free snacks and beverages 🍻🍕. There is a special one I feel most grateful - [WarsawJS](https://warsawjs.com/) guys, I will write more in credentials part :).
+- I am amazed by the **power of open source**, how much tools we get for our everyday work for free. It is really different from a Factory Automation business for example. There are [PLC](https://en.wikipedia.org/wiki/Programmable_logic_controller) programmers who don't have such easy ways to share their code with git, don't have libraries for every problem they face, so many tools for project management etc. BTW I think this is a great niche for startups 🚀.
+- **Javascript community in Warsaw is awesome**. You can attend some meetup almost every week I think. Most of the time you will find well prepared speakers with a ton of knowledge to share and free snacks and beverages 🍻🍕. There is a special one I feel most grateful - [WarsawJS](https://warsawjs.com/) I will write more about in the credits part :).
 - There is a huge demand for software developers on the market what make me feel secure about my career and finances.
 
 ### What I don't like? 😕
 
-- It was a really stressful time for me, especially on the beginning. With weekly sprints and daily standups I felt constant pressure that I need to provide a value in a short amount of time. Sure it got better after a year with my skills and self-confidence growing. If you are about to start working as a developer, just be prepared it might look the same for you :).
+- It was a really stressful time for me, especially at the beginning. With weekly sprints and daily standups I felt constant pressure that I need to provide a value in a short amount of time. Sure it got better after a year with my skills and self-confidence growing. If you are about to start working as a developer, just be prepared it might look the same for you :).
 - **[Imposture syndrom](https://www.codingdojo.com/blog/programmer-imposter-syndrome/) is a thing!** I constantly felt I don't belong here, that I lack some abilities, I am not smart enough, not fast enough, will not ever learn something etc. I still feel like this sometimes. I think I just got used to it and got an understanding that this is a common feeling in this dynamic IT industry.
 - I feel **frontend stack is over-complicated**. Because of so many libraries and frameworks available, there are tons of ways to do the same thing and multiple different stacks to learn. **I feel it all should be much simpler**. On the other hand, the simpler it gets then the less job will be there for us, frontend developers 🙀
 
@@ -59,7 +59,7 @@ It is a good moment do send kudos to people who helped me in the last year:
 [WarsawJS](https://warsawjs.com/) - local community giving **so much** to developers in Warsaw (not only). Extremely positive organizers make every event a pleasure to attend. Personally I participated in:
 
 - monthly meetups,
-- workshops - really cool events where you get a pro training in some frontend related topic for a fraction of usual costs. You can find what we did on each on my [github](https://github.com/archiewald?utf8=%E2%9C%93&tab=repositories&q=warsawjs&type=&language=). There is a post I wrote about one [here]({{ "/1ppm/2018/03/03/battleship-MVC" | absolute_url }})
+- workshops - really cool events where you get a pro training in some frontend related topic for a fraction of usual costs. You can find what we did on each on my [github](https://github.com/archiewald?utf8=%E2%9C%93&tab=repositories&q=warsawjs&type=&language=). There is a post I wrote about one [here]({{ "/1ppm/2018/03/03/battleship-MVC" | absolute_url }}).
 - slack group - I believe you need to attend some event to get an invitation. There is a lot of going on, you can get advices from other members of WarsawJS community, mostly frontend professionals who are really helpful!
 
 There are even more initiatives you can read about [here](https://warsawjs.com/about).
