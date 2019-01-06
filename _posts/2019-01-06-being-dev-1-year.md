@@ -30,7 +30,7 @@ So here it is, another article summarizing how the 2018 was :) For me it was a v
 ### What I don't like? 😕
 
 - It was a really stressful time for me, especially at the beginning. With weekly sprints and daily standups I felt constant pressure that I need to provide a value in a short amount of time. Sure it got better after a year with my skills and self-confidence growing. If you are about to start working as a developer, just be prepared it might look the same for you :).
-- **[Imposture syndrom](https://www.codingdojo.com/blog/programmer-imposter-syndrome/) is a thing!** I constantly felt I don't belong here, that I lack some abilities, I am not smart enough, not fast enough, will not ever learn something etc. I still feel like this sometimes. I think I just got used to it and got an understanding that this is a common feeling in this dynamic IT industry.
+- **[Impostor syndrome](https://www.codingdojo.com/blog/programmer-imposter-syndrome/) is a thing!** I constantly felt I don't belong here, that I lack some abilities, I am not smart enough, not fast enough, will not ever learn something etc. I still feel like this sometimes. I think I just got used to it and got an understanding that this is a common feeling in this dynamic IT industry.
 - I feel **frontend stack is over-complicated**. Because of so many libraries and frameworks available, there are tons of ways to do the same thing and multiple different stacks to learn. **I feel it all should be much simpler**. On the other hand, the simpler it gets then the less job will be there for us, frontend developers 🙀
 
 ### 1 project per month - how it went 🤔
