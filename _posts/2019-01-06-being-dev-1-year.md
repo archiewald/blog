@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Being a fronted developer for 1 year"
-description: "Summing up how it feels after 1 year of working as a frontend developer"
+title: "Being a frontend developer for 1 year"
+description: "Summing up how it feels after 1 year working as a frontend developer. Pros and cons + some credentials 🎉"
 date: 2019-01-06 18:00:00 +0100
 comments: true
 image: /assets/2019-01-06/newyear.jpg
@@ -10,7 +10,7 @@ image: /assets/2019-01-06/newyear.jpg
 So here it is, another article summarizing how the 2018 was :) For me it was a very special time, since exactly on December 2017 I started my first job as a frontend developer. It was an intense year but I am happy to say that I learned a lot, feel bit more confident about my programming skills and look forward to learn new.
 
 <div class="img-block">
-    <img src="https://images.unsplash.com/photo-1498673394965-85cb14905c89?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80" alt="new year">
+    <img src="{{ "/assets/2019-01-06/newyear.jpg" | absolute_url }}" alt="new year">
     <p class="caption">
     by
     <a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@cristian1?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Cristian Escobar"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Cristian Escobar</span></a>
@@ -30,7 +30,7 @@ So here it is, another article summarizing how the 2018 was :) For me it was a v
 ### What I don't like? 😕
 
 - It was a really stressful time for me, especially on the beginning. With weekly sprints and daily standups I felt constant pressure that I need to provide a value in a short amount of time. Sure it got better after a year with my skills and self-confidence growing. If you are about to start working as a developer, just be prepared it might look the same for you :).
-- **[Imposture syndrom](https://www.codingdojo.com/blog/programmer-imposter-syndrome/) is a thing!** I constantly felt I don't belong here, that I lack some abilities, I am not smart enough, not fast enough, will not ever learn something etc. I still feel like this sometimes. I think I just get used to it and get an understanding that this is a common feeling in this dynamic IT industry.
+- **[Imposture syndrom](https://www.codingdojo.com/blog/programmer-imposter-syndrome/) is a thing!** I constantly felt I don't belong here, that I lack some abilities, I am not smart enough, not fast enough, will not ever learn something etc. I still feel like this sometimes. I think I just got used to it and got an understanding that this is a common feeling in this dynamic IT industry.
 - I feel **frontend stack is over-complicated**. Because of so many libraries and frameworks available, there are tons of ways to do the same thing and multiple different stacks to learn. **I feel it all should be much simpler**. On the other hand, the simpler it gets then the less job will be there for us, frontend developers 🙀
 
 ### 1 project per month - how it went 🤔
