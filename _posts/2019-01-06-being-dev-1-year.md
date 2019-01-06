@@ -21,16 +21,16 @@ So here it is, another article summarizing how the 2018 was :) For me it was a v
 ### What I like? 😍
 
 - **I feel I work as a real engineer.** I get specifications and transform it into solutions with my skills. Coding is my craft which I can polish every day, no one can take it from me - this gives me a great feeling of freedom.
-- Learning in IT feels much easier then in other businesses I worked. Literally, **every person I met was eager to share his knowledge with me**. Obviously there is a ton of materials in the net you can learn from. If you are lucky as I am, you will find a company which cares for a great growth environment as [codequest](https://codequest.com/) does 🚀.
-- I am amazed by the **power of open source**, how much tools we get for our every-day work for free. It is really different from a Factory Automation business for example. There are [PLC](https://en.wikipedia.org/wiki/Programmable_logic_controller) programmers who don't have such easy ways to share their code with git, don't have libraries for every problem they face, so many tools for project management etc. BTW I think this is a great niche for startups.
+- Learning in IT feels much easier then in other businesses I worked. Literally, **every person I met was eager to share his knowledge with me**. Obviously there is a ton of materials in the net you can learn from. If you are lucky as I am, you will find a company which cares for a great growth environment as [codequest](https://codequest.com/) does 🎉.
+- I am amazed by the **power of open source**, how much tools we get for our every-day work for free. It is really different from a Factory Automation business for example. There are [PLC](https://en.wikipedia.org/wiki/Programmable_logic_controller) programmers who don't have such easy ways to share their code with git, don't have libraries for every problem they face, so many tools for project management etc. BTW I think this is a great niche for startups 🚀.
 - **Javascript community in Warsaw is awesome**. You can attend some meetup almost every week I think. Most of the time you will find well prepared speakers with ton of knowledge to share and free snacks and beverages 🍻🍕. There is a special one I feel most grateful - [WarsawJS](https://warsawjs.com/) guys, I will write more in credentials part :).
-- There is a huge demand for software developers on the market which make me feel secure about my career and finances.
+- There is a huge demand for software developers on the market what make me feel secure about my career and finances.
 
 ### What I don't like? 😕
 
-- It was a really stressful time for me, especially on the beginning. With weekly sprints and daily standups I felt constant pressure that I need to provide a value in a short amount of time. Sure it got better after a year with my skills growing and better confidence. If you are about to start working as a developer, just be prepared it might look the same for you :).
+- It was a really stressful time for me, especially on the beginning. With weekly sprints and daily standups I felt constant pressure that I need to provide a value in a short amount of time. Sure it got better after a year with my skills and self-confidence growing. If you are about to start working as a developer, just be prepared it might look the same for you :).
 - **[Imposture syndrom](https://www.codingdojo.com/blog/programmer-imposter-syndrome/) is a thing!** I constantly felt I don't belong here, that I lack some abilities, I am not smart enough, not fast enough, will not ever learn something etc. I still feel like this sometimes. I think I just get used to it and get an understanding that this is a common feeling in this dynamic IT industry.
-- I feel frontend stack is over-complicated. Because of so many libraries and frameworks available, there are tons of ways to do the same thing and multiple different stacks to learn. **I feel it all should be much simpler**. On the other hand, the simpler it gets then the less job will be there for us, frontend developers 🙀
+- I feel **frontend stack is over-complicated**. Because of so many libraries and frameworks available, there are tons of ways to do the same thing and multiple different stacks to learn. **I feel it all should be much simpler**. On the other hand, the simpler it gets then the less job will be there for us, frontend developers 🙀
 
 ### 1 project per month - how it went 🤔
 
@@ -46,7 +46,7 @@ Count them in and **we have 12!** 🚀
 
 It is a good moment do send kudos to people who helped me in the last year:
 
-[codequest](https://codequest.com/) - a great company I work in, I was really lucky I applied there and got hired as a freshman. Let me point out how much support I got there:
+[codequest](https://codequest.com/) - **a great company I work in,** I was really lucky I applied there and got hired as a freshman. Let me point out how much support I got:
 
 - 2 interesting projects I was involved in, starting from their planning phase - no legacy code!
 - great mentorship by a skillful senior developer,
@@ -58,7 +58,7 @@ It is a good moment do send kudos to people who helped me in the last year:
 [WarsawJS](https://warsawjs.com/) - local community giving **so much** to developers in Warsaw (not only). Extremely positive organisers make every event a pleasure to attend. Personally I participated in:
 
 - monthly meetups,
-- workshops - really cool events where you get a pro training in some frontend related topic for a fraction of usual costs! You can find what we did on each on my [github](https://github.com/archiewald?utf8=%E2%9C%93&tab=repositories&q=warsawjs&type=&language=). There is a post I wrote about one [here]({{ "/1ppm/2018/03/03/battleship-MVC" | absolute_url }}) !
+- workshops - really cool events where you get a pro training in some frontend related topic for a fraction of usual costs. You can find what we did on each on my [github](https://github.com/archiewald?utf8=%E2%9C%93&tab=repositories&q=warsawjs&type=&language=). There is a post I wrote about one [here]({{ "/1ppm/2018/03/03/battleship-MVC" | absolute_url }})
 - slack group - I believe you need to attend some event to get an invitation. There is a lot of going on, you can get advices from other members of WarsawJS community, mostly frontend professionals who are really helpful!
 
 There are even more initiatives you can read about [here](https://warsawjs.com/about).
