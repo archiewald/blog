@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Being a frontend developer for 1 year"
-description: "Summing up how it feels after 1 year working as a frontend developer. Pros and cons + some credentials 🎉"
+description: "Summing up how it feels after 1 year working as a frontend developer. Pros and cons + credits to people who helped me 🎉"
 date: 2019-01-06 18:00:00 +0100
 comments: true
 image: /assets/2019-01-06/newyear.jpg
@@ -43,7 +43,7 @@ There was a challenge I took in 2018 to make a blogpost about one technical proj
 
 Count them in and **we have 12!** 🚀
 
-### Credentials 🙏
+### Credits 🙏
 
 It is a good moment do send kudos to people who helped me in the last year:
 
