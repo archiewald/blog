@@ -4,6 +4,7 @@ title: "Being a fronted developer for 1 year"
 description: "Summing up how it feels after 1 year of working as a frontend developer"
 date: 2019-01-06 18:00:00 +0100
 comments: true
+image: /assets/2019-01-06/new-year.jpg
 ---
 
 So here it is, another article summarizing how the 2018 was :) For me it was a very special time, since exactly on December 2017 I started my first job as a frontend developer. It was an intense year but I am happy to say that I learned a lot, feel bit more confident about my programming skills and look forward to learn new.
