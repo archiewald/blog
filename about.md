@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<div class="img-block">
+    <img src="{{ "/assets/archie.jpg" | absolute_url }}" alt="archie">  
+</div>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Artur and I recently decided to become a frontend developer.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Here on my blog you can see some output of my struggles to be a better and better one. 
 
+Frontend is my priority right now, but since I finished a factory automation degree I like hardware as well. I will try post something about it from time to time.
 
-[jekyll-organization]: https://github.com/jekyll
+If you are interested in my professional experience here you can find me on [linkedin](https://www.linkedin.com/in/arturkozubek/)

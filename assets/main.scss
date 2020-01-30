@@ -1,0 +1,24 @@
+---
+---
+
+@import "minima";
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-block {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  .caption {
+    margin-top: 5px;
+    font-style: italic;
+  }
+}
+
+blockquote {
+  letter-spacing: 0;
+}
